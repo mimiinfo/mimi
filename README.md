@@ -1,0 +1,6 @@
+fdfdfdfdfsfs
+fdfdfs	
+q
+:
+:wq
+
